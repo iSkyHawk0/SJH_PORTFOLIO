@@ -4,6 +4,10 @@
 
 _(Last updated: Nov 2025)_
 
+Here is a collection of the projects I have completed during my time at Georgia Tech!
+Due to Academic Integrity, I am unable to share source code for these projects, in lieu of that, I have
+compiled some demo videos and a short descriptor outlining the techniques/methods used to accomplish these.
+
 
 
 **Legacy Portfolio Site Link (Check it out!):  [Penn State Portfolio](https://iskyhawk0.github.io/skylerhawkins/)**
@@ -38,6 +42,16 @@ _(Last updated: Nov 2025)_
 ### Drone PID Controller - Dual Rotor
 
 ![PID Demo](media/PID_GIF.gif)
+
+---
+### Warehouse Search/Policy - A*
+![Search Demo](media/SEARCH_GIF.gif)
+
+---
+
+### Drone SLAM - Indiana Drones
+![SLAM Demo](media/INDIANA_DRONES_GIF.gif)
+
 
 ## 🎮 Game AI
 
