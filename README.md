@@ -13,6 +13,11 @@ _(Last updated: Nov 2025)_
 
 ## 🤖 Robotics AI 
 
+### Spaceship Kalman Filter - Rocket Jump
+
+![KF Demo](media/KF_GIF.gif)
+
+---
 
 ### Solar System Particle Filter – Satellite Localization
 
@@ -29,6 +34,10 @@ _(Last updated: Nov 2025)_
   
 ![PF Demo](media/PF_GIF.gif)
 ---
+
+### Drone PID Controller - Dual Rotor
+
+![PID Demo](media/PID_GIF.gif)
 
 ## 🎮 Game AI
 
