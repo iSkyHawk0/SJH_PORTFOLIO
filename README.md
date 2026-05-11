@@ -21,7 +21,9 @@ compiled some demo videos and a short descriptor outlining the techniques/method
 ---
 **What it is:** Simulation project implementing a Kalman Filter to localize a rocket ship's location in an asteroid field. The rocket is capable of jumping from asteroid to asteroid in a certain distance. 
 - Over days of simulated time, the filter uses sensor readings to estimate asteroid positions to determine clear rocket jumps/paths to a goal. 
+
 **Tech:** Python · Kalman Filter
+
 **Description:** Shows the rocket and asteroids predicted and actual positions.
 - BLUE: The location of the rocket and its ACTUAL jump range.
    --RED/GREEN CIRCLES: Predicted jump range, red is a bad guess (outside of acceptable error tolerance), green is a good guess (within the error tolerance) 
